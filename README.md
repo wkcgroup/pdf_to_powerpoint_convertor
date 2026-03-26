@@ -7,6 +7,7 @@ This notebook provides a simple, automated workflow to convert a PDF document in
 Each page of the PDF is converted into a corresponding slide using one of two approaches:
 
 Image mode → each page becomes a high-resolution image on a slide
+
 Text mode → text is extracted and formatted into slides (where possible)
 
 The workflow is designed for quick use in Google Colab, requiring minimal setup.
