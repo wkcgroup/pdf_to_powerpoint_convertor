@@ -16,6 +16,7 @@ The workflow is designed for quick use in Google Colab, requiring minimal setup.
 **🚀 Features**
 
 Convert entire PDFs into PowerPoint slides in seconds
+
 Supports:
 
 🖼️ Image-based conversion (high fidelity, preserves layout)
